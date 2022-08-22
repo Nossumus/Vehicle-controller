@@ -49,7 +49,7 @@ C/C++
 
 ### Photos 
 
- <p align = "center"> <img src = "ControllerPhotos/Warsztatowe.jpg" width="576"</p>
+ <p align = "center"> <img src = "ControllerPhotos/Warsztatowe.jpg" width="576" rotate="90"</p>
  <p align = "center"> Workshop photo </p>
    
  <p align = "center"> <img src = "ControllerPhotos/Kontroler v1.jpg" width="576"</p>
