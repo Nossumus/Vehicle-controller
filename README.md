@@ -49,23 +49,16 @@ C/C++
 
 ### Photos 
 
- <p align = "center"> <img src = "Photos/" width="576"</p>
- <p align = "center"> Vehicle + controller </p>
-   
- <p align = "center"> <img src = "Photos/" width="576"</p>
- <p align = "center"> Prototyping </p>
- 
- <p align = "center"> <img src = "Photos/" width="576"</p>
- <p align = "center"> Chassis </p>
- 
- <p align = "center"> <img src = "Photos/" width="576"</p>
+ <p align = "center"> <img src = "ControllerPhotos/Warsztatowe.jpg" width="576"</p>
  <p align = "center"> Workshop photo </p>
+   
+ <p align = "center"> <img src = "ControllerPhotos/Kontroler v1.jpg" width="576"</p>
+ <p align = "center"> Controller v1 - with additional STM32F411CC and without ESP32 (early version)  </p>
  
- <p align = "center"> <img src = "Photos/.jpg" width="576"</p>
- <p align = "center"> Mainboard </p>
+ <p align = "center"> <img src = "ControllerPhotos/Kontroler v2.jpg" width="576"</p>
+ <p align = "center"> Controller v2 </p>
  
- <p align = "center"> <img src = "Photos/" width="576"</p>
- <p align = "center"> Soldering ESP32 socket </p>
+
  
  
  
