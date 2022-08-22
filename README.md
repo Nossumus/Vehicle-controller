@@ -1,5 +1,5 @@
 # Vehicle controller
-### Vehicle controller - university evaluation project
+### Vehicle controller - university project
 
 ## Table of contents
 - [Description](#description) 
