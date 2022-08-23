@@ -35,6 +35,7 @@ The vehicle controller capabilities are listed below:
 
 - STM32 Cube IDE (Eclipse)
 - STM32 Cube MX
+- TouchGFX Designer
 - STM Studio
 - Visual Studio Code
 
